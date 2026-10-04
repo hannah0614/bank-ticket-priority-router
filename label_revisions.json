@@ -1,0 +1,45 @@
+{
+  "label_version": "dev-confirmed-v2",
+  "confirmed_at": "2026-10-04T15:17:00+08:00",
+  "confirmation_source": "User explicitly accepted all six policy-based revisions in conversation.",
+  "process": "AI-assisted review against previously agreed rules, explicitly human-approved; not blind independent annotation.",
+  "original_snapshot": "data/dev_original.csv",
+  "current_data": "data/dev.csv",
+  "changes": [
+    {
+      "ticket_id": "24170130",
+      "before": "High",
+      "after": "Medium"
+    },
+    {
+      "ticket_id": "24172332",
+      "before": "High",
+      "after": "Medium"
+    },
+    {
+      "ticket_id": "24169820",
+      "before": "Low",
+      "after": "Medium"
+    },
+    {
+      "ticket_id": "24170886",
+      "before": "Low",
+      "after": "Medium"
+    },
+    {
+      "ticket_id": "24172062",
+      "before": "Medium",
+      "after": "High"
+    },
+    {
+      "ticket_id": "24172148",
+      "before": "Medium",
+      "after": "High"
+    }
+  ],
+  "current_counts": {
+    "Medium": 11,
+    "High": 6,
+    "blank": 2
+  }
+}

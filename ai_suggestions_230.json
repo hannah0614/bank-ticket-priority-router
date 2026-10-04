@@ -1,0 +1,1612 @@
+[
+  {
+    "source_line": 1,
+    "suggested_priority": "High",
+    "suggested_reason": "明确报告被骗转账且损失未获退回，金额小也属于 High。",
+    "evidence": "The Total loss to this scam is {$20.00}.",
+    "review_flag": ""
+  },
+  {
+    "source_line": 2,
+    "suggested_priority": "High",
+    "suggested_reason": "虽涉及重复转账，但末尾明确称银行从未获授权的另一账户扣款。",
+    "evidence": "an account I never gave them permission to withdraw from",
+    "review_flag": "边界复核：重复扣款与明确未授权扣款"
+  },
+  {
+    "source_line": 3,
+    "suggested_priority": "Medium",
+    "suggested_reason": "分期促销期限编码错误，产生利息争议。",
+    "evidence": "incorrectly coded as 12 months instead of 84 months",
+    "review_flag": ""
+  },
+  {
+    "source_line": 4,
+    "suggested_priority": "Medium",
+    "suggested_reason": "客户否认欺诈，实际问题是账户被错误关闭。",
+    "evidence": "I never used my account for fraudulent purposes",
+    "review_flag": ""
+  },
+  {
+    "source_line": 5,
+    "suggested_priority": "Medium",
+    "suggested_reason": "账户注册和在线付款仍被阻止。",
+    "evidence": "I still get the same block",
+    "review_flag": ""
+  },
+  {
+    "source_line": 6,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已购买商品的缺陷及退款承诺争议，退款尚未完成。",
+    "evidence": "changed their position",
+    "review_flag": ""
+  },
+  {
+    "source_line": 7,
+    "suggested_priority": "Medium",
+    "suggested_reason": "申请银行卡持续报错，服务问题未解决。",
+    "evidence": "an unexpected error message comes up everytime",
+    "review_flag": ""
+  },
+  {
+    "source_line": 8,
+    "suggested_priority": "Medium",
+    "suggested_reason": "开户奖励积分及年费争议。",
+    "evidence": "now they refuse to award the points",
+    "review_flag": ""
+  },
+  {
+    "source_line": 9,
+    "suggested_priority": "Medium",
+    "suggested_reason": "合法账户资金被冻结，未声称账户被盗或未授权交易。",
+    "evidence": "has been frozen by the bank",
+    "review_flag": ""
+  },
+  {
+    "source_line": 10,
+    "suggested_priority": "Medium",
+    "suggested_reason": "在线账户功能故障，需要反复到网点处理。",
+    "evidence": "My online profile has been problematic for years",
+    "review_flag": ""
+  },
+  {
+    "source_line": 11,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商品送错地址后的银行退款争议。",
+    "evidence": "delivered to the wrong address",
+    "review_flag": ""
+  },
+  {
+    "source_line": 12,
+    "suggested_priority": "",
+    "suggested_reason": "仅提到听说集体诉讼，未说明个人损失、具体诉求或处理状态。",
+    "evidence": "I was informed of class action lawsuit",
+    "review_flag": "信息不足"
+  },
+  {
+    "source_line": 13,
+    "suggested_priority": "Medium",
+    "suggested_reason": "成功开户后又被通知关闭，账户服务争议。",
+    "evidence": "the checking and savings account will be closed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 14,
+    "suggested_priority": "Medium",
+    "suggested_reason": "金融审查关闭账户后仍有余额、积分及费用争议。",
+    "evidence": "my account had a positive balance",
+    "review_flag": ""
+  },
+  {
+    "source_line": 15,
+    "suggested_priority": "High",
+    "suggested_reason": "明确遭电力公司冒充诈骗，主动转账也属于诈骗损失。",
+    "evidence": "victim of a sophisticated imposter scam",
+    "review_flag": ""
+  },
+  {
+    "source_line": 16,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称信用账户从未开立或授权，属于身份盗用指控。",
+    "evidence": "I have never opened or authorized this account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 17,
+    "suggested_priority": "High",
+    "suggested_reason": "称大额款项被取走并多次争议，结合修改密码的叙述提示未授权交易。",
+    "evidence": "I immediately changed passwords",
+    "review_flag": "重点复核：未直接写 unauthorized，需确认争议为未授权"
+  },
+  {
+    "source_line": 18,
+    "suggested_priority": "",
+    "suggested_reason": "只有焦虑、付款记录及差错描述，缺乏具体事件与交易性质。",
+    "evidence": "The discrepancy feels difficult to reconcile",
+    "review_flag": "信息不足"
+  },
+  {
+    "source_line": 19,
+    "suggested_priority": "Medium",
+    "suggested_reason": "关闭存款账户后的提现时效和流程争议，未明确资金已到账。",
+    "evidence": "the fastest they can disperse it is 4 business days",
+    "review_flag": "边界复核：如资金已到账且无剩余问题，可改 Low"
+  },
+  {
+    "source_line": 20,
+    "suggested_priority": "Medium",
+    "suggested_reason": "银行称有入侵尝试，但客户未确认被盗；当前问题为长期限制资金访问。",
+    "evidence": "was unaware of any unauthorized activity",
+    "review_flag": ""
+  },
+  {
+    "source_line": 21,
+    "suggested_priority": "Medium",
+    "suggested_reason": "取消订阅后继续收费及部分退款争议。",
+    "evidence": "refuse to refund the remaining subscription charges",
+    "review_flag": ""
+  },
+  {
+    "source_line": 22,
+    "suggested_priority": "Medium",
+    "suggested_reason": "保险支票兑付后资金被冻结，需要释放或证明未支付。",
+    "evidence": "Chase bank still has the funds held",
+    "review_flag": ""
+  },
+  {
+    "source_line": 23,
+    "suggested_priority": "Medium",
+    "suggested_reason": "无交易的新 PayPal 账户被停用，申诉渠道失败。",
+    "evidence": "permanently deactivated",
+    "review_flag": ""
+  },
+  {
+    "source_line": 24,
+    "suggested_priority": "High",
+    "suggested_reason": "明确报告诈骗或未授权交易，争议被拒且损失未退。",
+    "evidence": "report the unauthorized activity",
+    "review_flag": "重点复核：模板化文字、金额日期缺失，保留原始来源核验"
+  },
+  {
+    "source_line": 25,
+    "suggested_priority": "Medium",
+    "suggested_reason": "开户状态通知错误、初始存款缺失及通知功能异常。",
+    "evidence": "my account continues to reflect a {$0.00} balance",
+    "review_flag": ""
+  },
+  {
+    "source_line": 26,
+    "suggested_priority": "Medium",
+    "suggested_reason": "账户类型及月度维护费承诺争议。",
+    "evidence": "I was charged a monthly maintenance fee",
+    "review_flag": ""
+  },
+  {
+    "source_line": 27,
+    "suggested_priority": "Medium",
+    "suggested_reason": "授权购买的电视未收到，商家和支付平台拒绝退款。",
+    "evidence": "I never received the television",
+    "review_flag": ""
+  },
+  {
+    "source_line": 28,
+    "suggested_priority": "High",
+    "suggested_reason": "明确报告账户被盗用并发生未批准付款。",
+    "evidence": "I didn't approve of the transaction",
+    "review_flag": ""
+  },
+  {
+    "source_line": 29,
+    "suggested_priority": "Medium",
+    "suggested_reason": "身份核验后仍无法取用受限账户的资金。",
+    "evidence": "I still could not access my funds",
+    "review_flag": ""
+  },
+  {
+    "source_line": 30,
+    "suggested_priority": "Medium",
+    "suggested_reason": "虽已解锁转款，但账户关闭请求尚未落实。",
+    "evidence": "I just want US Bank to honor my letter",
+    "review_flag": ""
+  },
+  {
+    "source_line": 31,
+    "suggested_priority": "High",
+    "suggested_reason": "假冒警长的诈骗造成 Cash App 转账及礼品卡损失。",
+    "evidence": "impersonating a XXXX XXXX sheriff",
+    "review_flag": ""
+  },
+  {
+    "source_line": 32,
+    "suggested_priority": "Medium",
+    "suggested_reason": "信用额度降低及拒绝换卡的服务争议。",
+    "evidence": "reduced my credit limit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 33,
+    "suggested_priority": "Medium",
+    "suggested_reason": "他人自愿交付的支票被审查冻结，投诉是处理时效。",
+    "evidence": "he voluntarily gave me the IRS check",
+    "review_flag": ""
+  },
+  {
+    "source_line": 34,
+    "suggested_priority": "Medium",
+    "suggested_reason": "支票暂扣和新增透支费，未声称未授权交易。",
+    "evidence": "will not release the funds for 7 days",
+    "review_flag": ""
+  },
+  {
+    "source_line": 35,
+    "suggested_priority": "",
+    "suggested_reason": "仅称申请账户时已有账户，无法确认是否账户被盗开或普通重复注册。",
+    "evidence": "I tried to make an account and already had an account",
+    "review_flag": "信息不足"
+  },
+  {
+    "source_line": 36,
+    "suggested_priority": "High",
+    "suggested_reason": "明确报告大量未授权交易，部分退款拒绝后仍有损失。",
+    "evidence": "I did not make, authorize, approve, or benefit from the transactions",
+    "review_flag": "原文末尾不完整，但 High 事实明确"
+  },
+  {
+    "source_line": 37,
+    "suggested_priority": "High",
+    "suggested_reason": "假冒银行骗取验证码后资金被转走，索赔未解决。",
+    "evidence": "taken {$15000.00} out of my account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 38,
+    "suggested_priority": "High",
+    "suggested_reason": "被盗用信用卡仍有三笔未授权费用未移除。",
+    "evidence": "Charges which ARE NOT MINE",
+    "review_flag": ""
+  },
+  {
+    "source_line": 39,
+    "suggested_priority": "Medium",
+    "suggested_reason": "否认违规但账户关闭及申诉被拒，未报告真实安全事件。",
+    "evidence": "my account is deactivated for violating terms of service",
+    "review_flag": ""
+  },
+  {
+    "source_line": 40,
+    "suggested_priority": "Medium",
+    "suggested_reason": "搬家损坏后的保险及信用卡退款争议。",
+    "evidence": "Citi denied my dispute",
+    "review_flag": ""
+  },
+  {
+    "source_line": 41,
+    "suggested_priority": "Medium",
+    "suggested_reason": "自动付款迁移时设置成最低付款，引发利息退款争议。",
+    "evidence": "minimum payment",
+    "review_flag": ""
+  },
+  {
+    "source_line": 42,
+    "suggested_priority": "Medium",
+    "suggested_reason": "叙述为正常信用卡还款被系统重复处理及退票，按重复扣款业务差错处理。",
+    "evidence": "Capital One has a glitch in their system where they charge me twice",
+    "review_flag": "重点复核：称第二笔未授权；若确认是独立未授权交易，改 High"
+  },
+  {
+    "source_line": 43,
+    "suggested_priority": "High",
+    "suggested_reason": "明确否认交易，怀疑信息遭窃且申诉被拒。",
+    "evidence": "I did not make the transaction",
+    "review_flag": ""
+  },
+  {
+    "source_line": 44,
+    "suggested_priority": "Medium",
+    "suggested_reason": "付款分配、利息和现金预支分类错误。",
+    "evidence": "incorrect interest charges, misapplied payments",
+    "review_flag": ""
+  },
+  {
+    "source_line": 45,
+    "suggested_priority": "Medium",
+    "suggested_reason": "银行因欺诈标记关户，客户不知任何欺诈交易，当前诉求为纠正关闭与开户限制。",
+    "evidence": "I did not have any knowledge of a fraudulent charge",
+    "review_flag": ""
+  },
+  {
+    "source_line": 46,
+    "suggested_priority": "Medium",
+    "suggested_reason": "明确授权开发服务付款，项目未交付，退款入账被重复计算。",
+    "evidence": "I authorized three separate transactions",
+    "review_flag": ""
+  },
+  {
+    "source_line": 47,
+    "suggested_priority": "High",
+    "suggested_reason": "Chime 未授权转账尚未退还；涉及 Bitcoin 不改变银行账户安全事件性质。",
+    "evidence": "I did not authorize this transaction",
+    "review_flag": ""
+  },
+  {
+    "source_line": 48,
+    "suggested_priority": "High",
+    "suggested_reason": "冒充银行的诈骗导致账户被盗及资金损失，未说明损失已补回。",
+    "evidence": "my account was compromised and funds were taken",
+    "review_flag": "重点复核：主诉关户，但诈骗资金是否全部追回需确认"
+  },
+  {
+    "source_line": 49,
+    "suggested_priority": "Medium",
+    "suggested_reason": "借款后验证规则阻止储蓄账户转款。",
+    "evidence": "BEFORE I could access the money that was in my savings account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 50,
+    "suggested_priority": "High",
+    "suggested_reason": "假冒政府人员胁迫通过 Chime 网络存款，诈骗款尚未追回。",
+    "evidence": "targeted by a government impersonator",
+    "review_flag": ""
+  },
+  {
+    "source_line": 51,
+    "suggested_priority": "High",
+    "suggested_reason": "称从未有 Chime 账户，工资信息被改且工资流入未知账户。",
+    "evidence": "My payroll information was changed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 52,
+    "suggested_priority": "Medium",
+    "suggested_reason": "取消转账后的退款与结算记账争议，未明确发生独立未授权交易。",
+    "evidence": "whether the later debit was a settlement of a prior authorization",
+    "review_flag": ""
+  },
+  {
+    "source_line": 53,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人选错同名收款人，明确是误转而非诈骗或账户被盗。",
+    "evidence": "I mistakenly selected the wrong Cash App account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 54,
+    "suggested_priority": "Medium",
+    "suggested_reason": "迟付费已退但利息仍未退，尚未完全解决。",
+    "evidence": "they refused to refund the interest",
+    "review_flag": ""
+  },
+  {
+    "source_line": 55,
+    "suggested_priority": "Low",
+    "suggested_reason": "账户已关闭，投诉剩余推广邮件内容及停发要求，无未解决交易或安全损失。",
+    "evidence": "received emails every month containing deceptive subject lines",
+    "review_flag": "边界复核：作为一般营销反馈 Low；如采用服务投诉口径可为 Medium"
+  },
+  {
+    "source_line": 56,
+    "suggested_priority": "High",
+    "suggested_reason": "多笔不认识且从未交易的商家扣款，明确不是退货或取消服务退款。",
+    "evidence": "these merchants that are unknown to me and I never did business with",
+    "review_flag": ""
+  },
+  {
+    "source_line": 57,
+    "suggested_priority": "Medium",
+    "suggested_reason": "破产程序期间原债务继续扣款及客服无回应，未报告账户被盗。",
+    "evidence": "listed Cashapp as part of that debt",
+    "review_flag": ""
+  },
+  {
+    "source_line": 58,
+    "suggested_priority": "Medium",
+    "suggested_reason": "航空、酒店及餐饮服务质量引发银行卡退款争议。",
+    "evidence": "I requested a refund because",
+    "review_flag": "原文末尾不完整，但业务争议事实明确"
+  },
+  {
+    "source_line": 59,
+    "suggested_priority": "Medium",
+    "suggested_reason": "提交死亡证明和继承材料后仍无账户处理进展。",
+    "evidence": "a small claims affidavit and a death certificate",
+    "review_flag": ""
+  },
+  {
+    "source_line": 60,
+    "suggested_priority": "Medium",
+    "suggested_reason": "信用卡已清偿，但关闭后担保押金未归还。",
+    "evidence": "without giving back the XXXX deposit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 61,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商家争议银行退单审查及申诉流程，金额大本身不触发 High。",
+    "evidence": "defective American Express chargeback review process",
+    "review_flag": ""
+  },
+  {
+    "source_line": 62,
+    "suggested_priority": "High",
+    "suggested_reason": "明确未授权数字钱包交易，银行拒绝诈骗索赔。",
+    "evidence": "I did not authorize them",
+    "review_flag": ""
+  },
+  {
+    "source_line": 63,
+    "suggested_priority": "High",
+    "suggested_reason": "商业账号被黑导致广告扣款，部分退款后仍有未授权费用。",
+    "evidence": "unauthorized XXXX advertising charges remain unresolved",
+    "review_flag": ""
+  },
+  {
+    "source_line": 64,
+    "suggested_priority": "",
+    "suggested_reason": "临时退款被冲回的争议明确，但原始扣款是否未授权及是否完全解决叙述不清。",
+    "evidence": "a reversal credit of my own money",
+    "review_flag": "信息不足：需确认原始扣款性质和当前损失"
+  },
+  {
+    "source_line": 65,
+    "suggested_priority": "Medium",
+    "suggested_reason": "例行安全审查导致账户受限，没有确认真实盗用。",
+    "evidence": "a routine security check",
+    "review_flag": ""
+  },
+  {
+    "source_line": 66,
+    "suggested_priority": "Medium",
+    "suggested_reason": "偿还余额后信用额度被降低，影响信用评分。",
+    "evidence": "they reduce my credit balance",
+    "review_flag": ""
+  },
+  {
+    "source_line": 67,
+    "suggested_priority": "Medium",
+    "suggested_reason": "ATM 现金存款部分未记入账户。",
+    "evidence": "machine only credited {$5200.00} to my account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 68,
+    "suggested_priority": "Medium",
+    "suggested_reason": "迁移账户后无法登录且产生年费，要求降级或关户退费。",
+    "evidence": "an account I can not even log into",
+    "review_flag": ""
+  },
+  {
+    "source_line": 69,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已获批信用卡但身份验证未完成，无法使用。",
+    "evidence": "stuck in identity verification",
+    "review_flag": ""
+  },
+  {
+    "source_line": 70,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称他人盗用银行卡向从未交易的商家付款。",
+    "evidence": "someone fraud used my card",
+    "review_flag": ""
+  },
+  {
+    "source_line": 71,
+    "suggested_priority": "High",
+    "suggested_reason": "欺诈交易的临时退款被撤销，损失仍未解决。",
+    "evidence": "the bank reversed the credit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 72,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人关闭已清零担保卡后押金未归还。",
+    "evidence": "failed to return my {$500.00} secured credit card deposit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 73,
+    "suggested_priority": "Medium",
+    "suggested_reason": "装修服务的价格披露、延误及信用卡退款争议。",
+    "evidence": "I filed two billing disputes",
+    "review_flag": ""
+  },
+  {
+    "source_line": 74,
+    "suggested_priority": "High",
+    "suggested_reason": "电话诈骗后多笔未授权扣款，只有部分获退。",
+    "evidence": "Multiple unauthorized XXXX charges",
+    "review_flag": ""
+  },
+  {
+    "source_line": 75,
+    "suggested_priority": "Medium",
+    "suggested_reason": "餐饮安全引发的授权消费退款争议，银行审查是本项目处理对象。",
+    "evidence": "food safety merchant dispute",
+    "review_flag": ""
+  },
+  {
+    "source_line": 76,
+    "suggested_priority": "High",
+    "suggested_reason": "除支票和账户信息问题，末尾明确另有账户欺诈事项尚未获协助。",
+    "evidence": "a whole other issue of a fraud with my account",
+    "review_flag": "重点复核：需补充该欺诈事项是否仍有损失或安全风险"
+  },
+  {
+    "source_line": 77,
+    "suggested_priority": "Medium",
+    "suggested_reason": "赌博违规导致关户，申诉通知缺失，未报告真实盗用。",
+    "evidence": "closed my account for gambling",
+    "review_flag": ""
+  },
+  {
+    "source_line": 78,
+    "suggested_priority": "High",
+    "suggested_reason": "本人名下出现未申请的信用卡及存款账户，身份盗用尚未完全处理。",
+    "evidence": "all fraudulent accounts in my name",
+    "review_flag": ""
+  },
+  {
+    "source_line": 79,
+    "suggested_priority": "High",
+    "suggested_reason": "称赌博平台虚称账户被黑并盗走余额，提示支付相关诈骗损失。",
+    "evidence": "claimed my account was \" hacked '' and stole my balance",
+    "review_flag": "重点复核：确认实际诈骗损失，区别普通赌博提款或规则争议"
+  },
+  {
+    "source_line": 80,
+    "suggested_priority": "Medium",
+    "suggested_reason": "陌生账户已被银行关闭，当前具体诉求是纠正同名他人的邮寄地址。",
+    "evidence": "correct the mailing address on the other customer 's account",
+    "review_flag": "重点复核：若仍存在本人身份被冒用的未结事项，改 High"
+  },
+  {
+    "source_line": 81,
+    "suggested_priority": "High",
+    "suggested_reason": "明确身份盗用及未授权信用账户，银行仍要求承担余额。",
+    "evidence": "I am a victim of identity theft and credit card fraud",
+    "review_flag": ""
+  },
+  {
+    "source_line": 82,
+    "suggested_priority": "High",
+    "suggested_reason": "假冒狗繁育者诱导支付订金后拉黑，诈骗损失未追回。",
+    "evidence": "an online impostor scam posing as a legitimate dog breeder",
+    "review_flag": ""
+  },
+  {
+    "source_line": 83,
+    "suggested_priority": "Medium",
+    "suggested_reason": "部分退款被银行误作重复退款冲回，记账差错未解决。",
+    "evidence": "mistakenly believe it is a duplicate",
+    "review_flag": ""
+  },
+  {
+    "source_line": 84,
+    "suggested_priority": "Medium",
+    "suggested_reason": "关闭账户后的余额支票无法兑付，拒绝电子替代方式。",
+    "evidence": "refund check is so large",
+    "review_flag": ""
+  },
+  {
+    "source_line": 85,
+    "suggested_priority": "Low",
+    "suggested_reason": "向旧住户发送广告信的营销反馈，无确认身份盗用或金融交易损失。",
+    "evidence": "cease mailing solicitations to former occupants",
+    "review_flag": "边界复核：一般营销反馈 Low；不把假设身份盗用风险判 High"
+  },
+  {
+    "source_line": 86,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称在线票务诈骗诱导付款，立即报告但索赔被拒。",
+    "evidence": "induced through fraudulent misprepresentation",
+    "review_flag": ""
+  },
+  {
+    "source_line": 87,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已还款账户的账单、剩余付款及信用记录争议仍未处理。",
+    "evidence": "with false information",
+    "review_flag": ""
+  },
+  {
+    "source_line": 88,
+    "suggested_priority": "Medium",
+    "suggested_reason": "否认违法交易，当前争议为账户关闭及解释申诉。",
+    "evidence": "I did nothing illegal",
+    "review_flag": ""
+  },
+  {
+    "source_line": 89,
+    "suggested_priority": "High",
+    "suggested_reason": "卡遗失后发生明确未授权 ATM 提款，要求追回款项。",
+    "evidence": "unauthorized ATM withdrawals",
+    "review_flag": ""
+  },
+  {
+    "source_line": 90,
+    "suggested_priority": "",
+    "suggested_reason": "咨询服务退款争议，但全文没有银行、信用卡或支付机构对象，需核验项目范围。",
+    "evidence": "The merchant declined and charged me anyway",
+    "review_flag": "范围待确认：如源记录是银行或支付退款投诉，则 Medium"
+  },
+  {
+    "source_line": 91,
+    "suggested_priority": "High",
+    "suggested_reason": "商家未经本人知情或同意申请信用卡，身份及信用安全事件。",
+    "evidence": "without my knowledge or consent",
+    "review_flag": ""
+  },
+  {
+    "source_line": 92,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已验证保险支票因地址审查冻结，未报告盗用。",
+    "evidence": "refused XXXX override the hold",
+    "review_flag": ""
+  },
+  {
+    "source_line": 93,
+    "suggested_priority": "Medium",
+    "suggested_reason": "完成核验后存款账户仍锁定，无法用款。",
+    "evidence": "account has been locked for over two weeks",
+    "review_flag": ""
+  },
+  {
+    "source_line": 94,
+    "suggested_priority": "Medium",
+    "suggested_reason": "符合消费条件但奖励金未到账。",
+    "evidence": "I never recieved my {$20.00} bonus",
+    "review_flag": ""
+  },
+  {
+    "source_line": 95,
+    "suggested_priority": "Medium",
+    "suggested_reason": "迟付费减免请求被拒，费用争议。",
+    "evidence": "the late fee was still charged",
+    "review_flag": ""
+  },
+  {
+    "source_line": 96,
+    "suggested_priority": "Medium",
+    "suggested_reason": "取消服务后误收费、退款被误认重复并撤回，账务差错。",
+    "evidence": "systematic accounting errors",
+    "review_flag": ""
+  },
+  {
+    "source_line": 97,
+    "suggested_priority": "High",
+    "suggested_reason": "否认交易及所谓确认回复，报告未授权扣款索赔仍被拒。",
+    "evidence": "I never received any text message or email regarding this charge",
+    "review_flag": "疑似同一事件：与 NEW121 近重复，测试集须按事件去重"
+  },
+  {
+    "source_line": 98,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称 Cash App 放行未授权扣款，未说明该笔损失已追回。",
+    "evidence": "I didnt make this transaction",
+    "review_flag": "重点复核：已退两笔小额不代表当前争议的 100 美元已退"
+  },
+  {
+    "source_line": 99,
+    "suggested_priority": "High",
+    "suggested_reason": "同一盗刷事件只退一笔，另一未授权费用被重新计入。",
+    "evidence": "two unauthorized XXXX transactions",
+    "review_flag": ""
+  },
+  {
+    "source_line": 100,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商家拒收付款或未交付后的账单争议及客服故障。",
+    "evidence": "a formal billing error dispute",
+    "review_flag": ""
+  },
+  {
+    "source_line": 101,
+    "suggested_priority": "Medium",
+    "suggested_reason": "Square 对正常客户付款关户并限制提款。",
+    "evidence": "wont let me withdraw",
+    "review_flag": ""
+  },
+  {
+    "source_line": 102,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人申请的转账被拒后资金未返还，虽称盗窃但事实为退款业务争议。",
+    "evidence": "they notified me that they rejected the transfer",
+    "review_flag": ""
+  },
+  {
+    "source_line": 103,
+    "suggested_priority": "Medium",
+    "suggested_reason": "车辆交易未完成，订金退款争议被银行拒绝。",
+    "evidence": "Although the contract was not finalized",
+    "review_flag": ""
+  },
+  {
+    "source_line": 104,
+    "suggested_priority": "Medium",
+    "suggested_reason": "正常使用的 PayPal 账户突然受限，业务资金被冻结。",
+    "evidence": "holding {$590.00} of my business funds",
+    "review_flag": ""
+  },
+  {
+    "source_line": 105,
+    "suggested_priority": "High",
+    "suggested_reason": "明确拒绝却仍被开立支付卡账户并出现提款通知，属于未授权开户及资金操作。",
+    "evidence": "From an account that I did not create nor did I want",
+    "review_flag": "重点复核：区分门店正常兑票流程与实际未授权账户交易"
+  },
+  {
+    "source_line": 106,
+    "suggested_priority": "Medium",
+    "suggested_reason": "度假出租服务不符描述、部分退款被重复冲回。",
+    "evidence": "Services Not as Described",
+    "review_flag": ""
+  },
+  {
+    "source_line": 107,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人尝试消费被拒但资金仍暂扣，授权保留金争议。",
+    "evidence": "Despite denying the transaction",
+    "review_flag": ""
+  },
+  {
+    "source_line": 108,
+    "suggested_priority": "Medium",
+    "suggested_reason": "PayPal 账户永久受限，要求解释及人工申诉。",
+    "evidence": "My PayPal account was permanently limited",
+    "review_flag": ""
+  },
+  {
+    "source_line": 109,
+    "suggested_priority": "Medium",
+    "suggested_reason": "明确对无有效理由的关户进行申诉，属账户服务争议。",
+    "evidence": "closing my account without valid reason",
+    "review_flag": ""
+  },
+  {
+    "source_line": 110,
+    "suggested_priority": "Medium",
+    "suggested_reason": "授权用户资料不完整导致信用记录未上报。",
+    "evidence": "update the authorized user 's identifying information",
+    "review_flag": ""
+  },
+  {
+    "source_line": 111,
+    "suggested_priority": "Medium",
+    "suggested_reason": "余额和合法催收机构信息相互矛盾，债务处理未完成。",
+    "evidence": "exactly which agency is legally authorized",
+    "review_flag": ""
+  },
+  {
+    "source_line": 112,
+    "suggested_priority": "Medium",
+    "suggested_reason": "维修质量及已授权维修费退款争议；未支付的可疑追加报价不构成已发生诈骗损失。",
+    "evidence": "a brake overhaul",
+    "review_flag": ""
+  },
+  {
+    "source_line": 113,
+    "suggested_priority": "Medium",
+    "suggested_reason": "银行账户附带保险权益及理赔承诺争议。",
+    "evidence": "accidental life policy",
+    "review_flag": ""
+  },
+  {
+    "source_line": 114,
+    "suggested_priority": "Medium",
+    "suggested_reason": "添加银行卡提款后账户暂停，要求取款及关户。",
+    "evidence": "they suspended my account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 115,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已偿还余额但关户通知和解释争议仍未解决。",
+    "evidence": "I should have been notified before the account was closed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 116,
+    "suggested_priority": "High",
+    "suggested_reason": "本人未存入、签署或授权的支票导致透支费用，未授权账户操作。",
+    "evidence": "I did not deposit this check, nor did I sign it",
+    "review_flag": ""
+  },
+  {
+    "source_line": 117,
+    "suggested_priority": "Medium",
+    "suggested_reason": "Cash App 关户或受限，要求人工审查及解释。",
+    "evidence": "restricted or closed without a clear explanation",
+    "review_flag": ""
+  },
+  {
+    "source_line": 118,
+    "suggested_priority": "High",
+    "suggested_reason": "除机票退款争议，明确怀疑商家未授权使用银行卡给他人买票。",
+    "evidence": "used my card to purchase a ticket for another traveler without my authorization",
+    "review_flag": "重点复核：如仅是银行拿错争议材料、无独立盗用，改 Medium"
+  },
+  {
+    "source_line": 119,
+    "suggested_priority": "Medium",
+    "suggested_reason": "礼品卡使用被安全规则阻止，换卡及退款仍未解决。",
+    "evidence": "cards were placed \" ON-HOLD ''",
+    "review_flag": ""
+  },
+  {
+    "source_line": 120,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已添加优惠的消费未获得返现，优惠期限争议。",
+    "evidence": "I did not receive the cashback",
+    "review_flag": ""
+  },
+  {
+    "source_line": 121,
+    "suggested_priority": "High",
+    "suggested_reason": "否认欺诈扣款的验证回复，索赔未解决。",
+    "evidence": "I explicitly deny ever receiving or responding to",
+    "review_flag": "疑似同一事件：与 NEW097 近重复，测试集须按事件去重"
+  },
+  {
+    "source_line": 122,
+    "suggested_priority": "High",
+    "suggested_reason": "明确提及持续沟通的欺诈问题及账户锁定，未写已完成赔付。",
+    "evidence": "communicating with support about this fraud",
+    "review_flag": "重点复核：需确认历史欺诈是否仍有未追回损失"
+  },
+  {
+    "source_line": 123,
+    "suggested_priority": "High",
+    "suggested_reason": "假冒 Cash App 客服诱导付款，款项未返还。",
+    "evidence": "I never received a call back or my money back",
+    "review_flag": ""
+  },
+  {
+    "source_line": 124,
+    "suggested_priority": "High",
+    "suggested_reason": "未授权支付钱包账户使用本人邮箱，纠正尚未完成且疑似继续交易。",
+    "evidence": "An unauthorized Walmart account and ONE Wallet account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 125,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人 ACH 转账未到账，账户被误标欺诈，属于记账及审查问题。",
+    "evidence": "the bank flagged this account as fraud",
+    "review_flag": ""
+  },
+  {
+    "source_line": 126,
+    "suggested_priority": "High",
+    "suggested_reason": "明确手机被盗、银行账户被黑并发生资金损失。",
+    "evidence": "someone hacked my banking account & spent my money",
+    "review_flag": ""
+  },
+  {
+    "source_line": 127,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人转款时账户被阻止，要求身份验证及解除限制。",
+    "evidence": "the bank BLOCKED my account entirely",
+    "review_flag": ""
+  },
+  {
+    "source_line": 128,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商家关门导致预付服务无法使用，银行退款争议。",
+    "evidence": "unrendered prepaid services",
+    "review_flag": ""
+  },
+  {
+    "source_line": 129,
+    "suggested_priority": "Medium",
+    "suggested_reason": "Venmo 账户及余额被暂停，核验与申诉无响应。",
+    "evidence": "blocked access to my {$490.00} balance",
+    "review_flag": ""
+  },
+  {
+    "source_line": 130,
+    "suggested_priority": "Medium",
+    "suggested_reason": "继承礼品卡仅部分退款，剩余余额及记录未对账。",
+    "evidence": "five gift cards have not been accounted for",
+    "review_flag": ""
+  },
+  {
+    "source_line": 131,
+    "suggested_priority": "",
+    "suggested_reason": "Robinhood 账户限制涉及 Bitcoin 提款，需确认是否属于已约定银行或支付工单范围。",
+    "evidence": "withdraw by bitcoin into my wallet",
+    "review_flag": "范围待确认：如纳入券商账户服务，则 Medium"
+  },
+  {
+    "source_line": 132,
+    "suggested_priority": "High",
+    "suggested_reason": "早先诈骗已阻止，但新的未授权电汇已成功且拒赔，当前损失未解决。",
+    "evidence": "another unauthorized transaction, a wire transfer",
+    "review_flag": ""
+  },
+  {
+    "source_line": 133,
+    "suggested_priority": "Medium",
+    "suggested_reason": "申请批准通知缺失导致促销奖励未获，奖励争议。",
+    "evidence": "denied the bonus",
+    "review_flag": ""
+  },
+  {
+    "source_line": 134,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人发起的账户间 ACH 转账未到账，追踪未解决。",
+    "evidence": "missing ACH transfer",
+    "review_flag": ""
+  },
+  {
+    "source_line": 135,
+    "suggested_priority": "Medium",
+    "suggested_reason": "因可疑收款被关户冻结，实际未授权交易只是未证实猜测。",
+    "evidence": "I suspect the sender",
+    "review_flag": "边界复核：如补充明确实际未授权交易，改 High"
+  },
+  {
+    "source_line": 136,
+    "suggested_priority": "High",
+    "suggested_reason": "未授权开立信用卡导致冒名债务被反复上报，身份盗用未解决。",
+    "evidence": "without my knowledge or authorization",
+    "review_flag": ""
+  },
+  {
+    "source_line": 137,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人转账被应用错误重复提交，按重复交易业务差错处理。",
+    "evidence": "was duplicated due to what appears to have been an error",
+    "review_flag": ""
+  },
+  {
+    "source_line": 138,
+    "suggested_priority": "Medium",
+    "suggested_reason": "信用额度申请后多条信用账户关闭，服务决定争议。",
+    "evidence": "they closed all my 5 lines",
+    "review_flag": ""
+  },
+  {
+    "source_line": 139,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人跨境电汇未到账，召回和追踪未完成。",
+    "evidence": "bank has not received the funds I wired",
+    "review_flag": ""
+  },
+  {
+    "source_line": 140,
+    "suggested_priority": "Medium",
+    "suggested_reason": "关闭转移积分后兑换价值下降，信息披露及奖励争议。",
+    "evidence": "reduce the redemption value of my existing points",
+    "review_flag": ""
+  },
+  {
+    "source_line": 141,
+    "suggested_priority": "Medium",
+    "suggested_reason": "卖家正常收款被 PayPal 冻结，并被错误关联他人负余额。",
+    "evidence": "my funds would be held for 180 days",
+    "review_flag": ""
+  },
+  {
+    "source_line": 142,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称从未同意开通付费年订阅，未授权收费仍被拒赔。",
+    "evidence": "annual subscription without my explicit consent",
+    "review_flag": "重点复核：区别未授权初始开通与普通取消订阅后收费"
+  },
+  {
+    "source_line": 143,
+    "suggested_priority": "Medium",
+    "suggested_reason": "迟还款后刷卡被拒及核验服务问题。",
+    "evidence": "the card was declined",
+    "review_flag": ""
+  },
+  {
+    "source_line": 144,
+    "suggested_priority": "High",
+    "suggested_reason": "PayPal 账户身份盗用后仍有未授权扣款和尝试，安全风险持续。",
+    "evidence": "additional unauthorized charges and payment attempts continued",
+    "review_flag": ""
+  },
+  {
+    "source_line": 145,
+    "suggested_priority": "High",
+    "suggested_reason": "钓鱼邮件骗取卡信息并盗刷，仅部分退款，其他费用未追回。",
+    "evidence": "remaining XXXX fraudulent charges",
+    "review_flag": ""
+  },
+  {
+    "source_line": 146,
+    "suggested_priority": "High",
+    "suggested_reason": "设备被盗后发生明确未授权交易，要求退款。",
+    "evidence": "Device was stolen and unauthorized transactions were made",
+    "review_flag": ""
+  },
+  {
+    "source_line": 147,
+    "suggested_priority": "Medium",
+    "suggested_reason": "关户理由、贷款利率优惠及退款说明争议；未承认银行列举的欺诈事项发生。",
+    "evidence": "does not identify which specific provision",
+    "review_flag": ""
+  },
+  {
+    "source_line": 148,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人电汇被中间行合规审查暂扣，未授权交易未发生。",
+    "evidence": "placed a hold on the wire",
+    "review_flag": ""
+  },
+  {
+    "source_line": 149,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人银行关系终止后已赚取奖励被没收，奖励争议。",
+    "evidence": "refusal to honor approximately {$2300.00} in earned Cash Rewards",
+    "review_flag": ""
+  },
+  {
+    "source_line": 150,
+    "suggested_priority": "High",
+    "suggested_reason": "卡被盗后发生本人否认的网点提款，银行拒绝退款。",
+    "evidence": "my cards was stolen",
+    "review_flag": ""
+  },
+  {
+    "source_line": 151,
+    "suggested_priority": "Medium",
+    "suggested_reason": "递延利息披露争议，虽已付清并关户但仍寻求纠正负担。",
+    "evidence": "charged me approximately {$2300.00} in deferred interest",
+    "review_flag": ""
+  },
+  {
+    "source_line": 152,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称原欺诈损失仍在争议且退款被冲回，福利款被抵扣。",
+    "evidence": "still actively being disputed as fraudulent and have not been resolved",
+    "review_flag": ""
+  },
+  {
+    "source_line": 153,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人授权的付款因电话收款人关联错误而误转，明确否认账户被盗。",
+    "evidence": "I am not claiming that an unauthorized person accessed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 154,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人换机反复绑定后无法添加授权银行卡，功能故障。",
+    "evidence": "Card not added",
+    "review_flag": "疑似同一手机故障事件：与 NEW214、NEW220 高度相似，候选集只留一条"
+  },
+  {
+    "source_line": 155,
+    "suggested_priority": "",
+    "suggested_reason": "仅说明 Zelle 款项无法追回，没有交易原因、是否诈骗或误转等关键事实。",
+    "evidence": "recovering my lost funds",
+    "review_flag": "信息不足：补充款项损失原因"
+  },
+  {
+    "source_line": 156,
+    "suggested_priority": "Medium",
+    "suggested_reason": "关户余额已寄回，但迟到引发的账单罚金补偿未解决。",
+    "evidence": "get reimbursed for my lease fees",
+    "review_flag": ""
+  },
+  {
+    "source_line": 157,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人存入的银行本票被暂扣，要求释放余额。",
+    "evidence": "refusing to make the funds available",
+    "review_flag": ""
+  },
+  {
+    "source_line": 158,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商家退款被误标销售交易，PayPal 账户限制及资金访问争议。",
+    "evidence": "a direct refund from a merchant",
+    "review_flag": ""
+  },
+  {
+    "source_line": 159,
+    "suggested_priority": "",
+    "suggested_reason": "提及交易问题及客服挂断，但未描述具体交易，无法排除诈骗或普通差错。",
+    "evidence": "resolve my transaction issues",
+    "review_flag": "信息不足：补充具体交易和授权性质"
+  },
+  {
+    "source_line": 160,
+    "suggested_priority": "Medium",
+    "suggested_reason": "开户所需验证文件丢失及拒绝开户的服务争议。",
+    "evidence": "documentation for verification of identity to open a checking account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 161,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称银行未经授权从个人账户扣款用于不同业务实体债务，损失未解决。",
+    "evidence": "I did not authorize Bank of America to withdraw {$4000.00}",
+    "review_flag": "重点复核：未经授权的另一账户提款与普通债务抵扣争议边界"
+  },
+  {
+    "source_line": 162,
+    "suggested_priority": "",
+    "suggested_reason": "信用局迟付记录不一致，但未指出银行作为处理对象，需核验来源范围。",
+    "evidence": "reporting of late payments",
+    "review_flag": "范围待确认：如向银行或发卡行投诉，则 Medium"
+  },
+  {
+    "source_line": 163,
+    "suggested_priority": "Medium",
+    "suggested_reason": "PayPal 已标完成的退款未到账，需追踪网络记录。",
+    "evidence": "the funds are actually missing or held up",
+    "review_flag": ""
+  },
+  {
+    "source_line": 164,
+    "suggested_priority": "Medium",
+    "suggested_reason": "透支费及客服聊天故障阻碍处理。",
+    "evidence": "overdraft fees and other fees",
+    "review_flag": ""
+  },
+  {
+    "source_line": 165,
+    "suggested_priority": "High",
+    "suggested_reason": "本人未作的海外消费已获临时返款，但银行要求还回，欺诈损失仍未解决。",
+    "evidence": "I needed to pay the money back",
+    "review_flag": ""
+  },
+  {
+    "source_line": 166,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人输错金额多加一个零造成误付款，非账户盗用。",
+    "evidence": "Entered an extra zero",
+    "review_flag": ""
+  },
+  {
+    "source_line": 167,
+    "suggested_priority": "Medium",
+    "suggested_reason": "长期未用账户无法关闭，核验与待处理项目解释不一致。",
+    "evidence": "I seriously can not get a hold of anyone",
+    "review_flag": ""
+  },
+  {
+    "source_line": 168,
+    "suggested_priority": "Medium",
+    "suggested_reason": "家人转款因账户姓名不符被冻，客户否认欺诈，当前为解冻退款。",
+    "evidence": "It was due to a mismatch",
+    "review_flag": ""
+  },
+  {
+    "source_line": 169,
+    "suggested_priority": "",
+    "suggested_reason": "Spritz 退款需链上交易哈希及钱包追踪，需确认加密支付是否纳入项目。",
+    "evidence": "transaction hash ( TxID )",
+    "review_flag": "范围待确认：如纳入此支付服务，则 Medium"
+  },
+  {
+    "source_line": 170,
+    "suggested_priority": "High",
+    "suggested_reason": "假学校招聘及假支票诱导向假慈善机构转款，账户因此冻结。",
+    "evidence": "turned out the check was fraud",
+    "review_flag": ""
+  },
+  {
+    "source_line": 171,
+    "suggested_priority": "High",
+    "suggested_reason": "明确报告多笔未授权扣款，另有透支费，损失未解决。",
+    "evidence": "SEVERAL UNAUTHORIZED drafts",
+    "review_flag": "重点复核：确认确实未授权，而非仅对透支放行或费用不满"
+  },
+  {
+    "source_line": 172,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人主动汇入资金后关户冻结，要求释放余额。",
+    "evidence": "I was the one who did the wire",
+    "review_flag": ""
+  },
+  {
+    "source_line": 173,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人企业欠款导致个人贷款余额被冻结，账户限制及理由争议。",
+    "evidence": "PNC froze or restricted access to my personal funds",
+    "review_flag": ""
+  },
+  {
+    "source_line": 174,
+    "suggested_priority": "Medium",
+    "suggested_reason": "原债务金额、费用及协商偿付流程争议。",
+    "evidence": "original credit amount was approximately {$300.00}",
+    "review_flag": ""
+  },
+  {
+    "source_line": 175,
+    "suggested_priority": "Medium",
+    "suggested_reason": "纸账单费用引发迟付费且无账单和账户访问，费用服务问题。",
+    "evidence": "a {$2.00} paper statement fee",
+    "review_flag": ""
+  },
+  {
+    "source_line": 176,
+    "suggested_priority": "High",
+    "suggested_reason": "明确异地未授权刷卡，银行因金额或历史而拒赔。",
+    "evidence": "did not authorize or complete this purchase",
+    "review_flag": ""
+  },
+  {
+    "source_line": 177,
+    "suggested_priority": "Medium",
+    "suggested_reason": "航空升级已取消但仍入账，银行退款证据处理争议。",
+    "evidence": "an upgrade that XXXX cancelled",
+    "review_flag": ""
+  },
+  {
+    "source_line": 178,
+    "suggested_priority": "High",
+    "suggested_reason": "多张卡被盗，信用卡已退款但借记卡未授权费用仍拒赔。",
+    "evidence": "Navy Federal has denied my claim XXXX my appeal",
+    "review_flag": ""
+  },
+  {
+    "source_line": 179,
+    "suggested_priority": "Medium",
+    "suggested_reason": "授权定制商品未完成，退款被拒，未明确声称诈骗。",
+    "evidence": "the work was never completed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 180,
+    "suggested_priority": "Medium",
+    "suggested_reason": "银行催收施压及诉讼处理争议，未报告身份盗用。",
+    "evidence": "filed a lawsuit to intimidate me to get payments",
+    "review_flag": ""
+  },
+  {
+    "source_line": 181,
+    "suggested_priority": "High",
+    "suggested_reason": "亡者账户支票被邻居冒用提现，资金未追回。",
+    "evidence": "a neighbor cashed a check against the account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 182,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人为关户补入的资金未归还，转账记录不一致。",
+    "evidence": "I have not received my {$10.00} back",
+    "review_flag": ""
+  },
+  {
+    "source_line": 183,
+    "suggested_priority": "High",
+    "suggested_reason": "明确否认本人发起付款，疑似同一攻击者多次盗用。",
+    "evidence": "I did not authorize, initiate, or have any knowledge",
+    "review_flag": ""
+  },
+  {
+    "source_line": 184,
+    "suggested_priority": "Medium",
+    "suggested_reason": "开户奖励资格提示及里程奖励争议。",
+    "evidence": "I received no miles",
+    "review_flag": ""
+  },
+  {
+    "source_line": 185,
+    "suggested_priority": "Medium",
+    "suggested_reason": "客户明确把案件定义为商家误导或未提供服务的订阅退款争议，非身份盗用。",
+    "evidence": "this is a Merchant Misrepresentation/Services Not Rendered dispute",
+    "review_flag": "重点复核：如确认从未授权初始订阅而非误解条款，改 High"
+  },
+  {
+    "source_line": 186,
+    "suggested_priority": "Medium",
+    "suggested_reason": "违反条款关户的解释不足及恢复服务请求。",
+    "evidence": "I want to use Cash App again",
+    "review_flag": ""
+  },
+  {
+    "source_line": 187,
+    "suggested_priority": "High",
+    "suggested_reason": "明确否认三笔交易，提供报案资料后仍拒赔。",
+    "evidence": "I never made these three charges",
+    "review_flag": ""
+  },
+  {
+    "source_line": 188,
+    "suggested_priority": "Medium",
+    "suggested_reason": "国际手机号收不到验证短信导致网银锁定，是技术和客服问题。",
+    "evidence": "ceased transmitting these critical security codes",
+    "review_flag": ""
+  },
+  {
+    "source_line": 189,
+    "suggested_priority": "High",
+    "suggested_reason": "假冒银行人员操纵账户导致未授权扣款，未获退款。",
+    "evidence": "Fraudulent unauthorized charges",
+    "review_flag": ""
+  },
+  {
+    "source_line": 190,
+    "suggested_priority": "Medium",
+    "suggested_reason": "银行安全审查关户，客户明确否认真实欺诈或安全违规。",
+    "evidence": "no fraud no security violations",
+    "review_flag": ""
+  },
+  {
+    "source_line": 191,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商家关闭服务后部分付款已退，剩余服务费退款被银行拒绝。",
+    "evidence": "entirely unfulfilled services",
+    "review_flag": ""
+  },
+  {
+    "source_line": 192,
+    "suggested_priority": "High",
+    "suggested_reason": "明确身份、手机和钱包被盗，账户持续出现不认识的扣款。",
+    "evidence": "someone been draining my account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 193,
+    "suggested_priority": "High",
+    "suggested_reason": "明确认为他人盗走账户资金且仍在持续取款。",
+    "evidence": "is still taking money from my account",
+    "review_flag": ""
+  },
+  {
+    "source_line": 194,
+    "suggested_priority": "Medium",
+    "suggested_reason": "法院授权的遗产代表无法凭证明获取账户服务。",
+    "evidence": "without a resolution",
+    "review_flag": ""
+  },
+  {
+    "source_line": 195,
+    "suggested_priority": "Medium",
+    "suggested_reason": "奖励积分扣除后账单抵扣未到账。",
+    "evidence": "statement credit has not been applied",
+    "review_flag": ""
+  },
+  {
+    "source_line": 196,
+    "suggested_priority": "High",
+    "suggested_reason": "明确未授权多笔扣款，银行拒绝退还损失。",
+    "evidence": "I did not make or authorize any of these purchases",
+    "review_flag": ""
+  },
+  {
+    "source_line": 197,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人已付清关户，但信用记录持续显示开放及负面状态。",
+    "evidence": "They keep reporting that its open",
+    "review_flag": ""
+  },
+  {
+    "source_line": 198,
+    "suggested_priority": "Medium",
+    "suggested_reason": "账户关闭后余额支票未发出或转款失效。",
+    "evidence": "no check had actually been processed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 199,
+    "suggested_priority": "Medium",
+    "suggested_reason": "原卡已因安全问题更换，当前新卡无法加入数字钱包，未明确有未结盗刷损失。",
+    "evidence": "not being able to add that card to my digital wallet",
+    "review_flag": "边界复核：如旧卡盗刷损失仍未解决，应改 High"
+  },
+  {
+    "source_line": 200,
+    "suggested_priority": "Medium",
+    "suggested_reason": "过去冒名账户已成功纠正，当前新申请账户被自动关闭。",
+    "evidence": "has been successfully disputed as fraud",
+    "review_flag": ""
+  },
+  {
+    "source_line": 201,
+    "suggested_priority": "High",
+    "suggested_reason": "明确假冒公用事业机构诈骗诱导转账，退款被拒。",
+    "evidence": "victim of a utility impersonation scam",
+    "review_flag": ""
+  },
+  {
+    "source_line": 202,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已关闭遗产账户，但依法要求的余额和交易记录仍未提供。",
+    "evidence": "has not complied with my legally made requests",
+    "review_flag": ""
+  },
+  {
+    "source_line": 203,
+    "suggested_priority": "Medium",
+    "suggested_reason": "工资直接存入功能被关闭，要求恢复服务或解释。",
+    "evidence": "removed my ability to use direct deposit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 204,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人还款输错金额产生巨额信用余额，要求退款及解决暂扣。",
+    "evidence": "payment of {$37000.00} was submitted in error",
+    "review_flag": ""
+  },
+  {
+    "source_line": 205,
+    "suggested_priority": "",
+    "suggested_reason": "家人汇款最终进入陌生账户，但未说明是误转、链接诈骗还是未授权转款。",
+    "evidence": "CashApp said I sent the money to XXXX",
+    "review_flag": "信息不足：补充付款链接来源及本人实际操作"
+  },
+  {
+    "source_line": 206,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人还款被分配至促销余额而非高息消费余额。",
+    "evidence": "erroneously applied XXXX the promo balance",
+    "review_flag": ""
+  },
+  {
+    "source_line": 207,
+    "suggested_priority": "Medium",
+    "suggested_reason": "询问不明商家后银行卡被直接停用，当前明确诉求为客服操作和换卡补偿。",
+    "evidence": "she proceeded to block my debit card",
+    "review_flag": "边界复核：尚未确认不明商家收费为未授权，若确认则 High"
+  },
+  {
+    "source_line": 208,
+    "suggested_priority": "Medium",
+    "suggested_reason": "已还款却产生迟付费，付款分配及费用争议。",
+    "evidence": "I was still charged a late fee",
+    "review_flag": ""
+  },
+  {
+    "source_line": 209,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人买房资金转账多次失败且追踪信息相互矛盾。",
+    "evidence": "the transfer was failing",
+    "review_flag": ""
+  },
+  {
+    "source_line": 210,
+    "suggested_priority": "Medium",
+    "suggested_reason": "政府工伤补偿支票被暂扣，要求验证及释放资金。",
+    "evidence": "automated system triggered a hold on my funds",
+    "review_flag": ""
+  },
+  {
+    "source_line": 211,
+    "suggested_priority": "High",
+    "suggested_reason": "他人冒用身份开立多个支付账户，当前开户仍受影响。",
+    "evidence": "Someone opened multiple accounts in my name",
+    "review_flag": ""
+  },
+  {
+    "source_line": 212,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人购买商品被送至错误公共场所后被盗，争议为未收到商品退款。",
+    "evidence": "the item was left in an incorrect location",
+    "review_flag": ""
+  },
+  {
+    "source_line": 213,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人账户多次提款失败，余额无法取用。",
+    "evidence": "Every withdrawal attempt has failed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 214,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人换机后银行卡无法加入钱包，属于功能故障。",
+    "evidence": "Card not added",
+    "review_flag": "疑似同一手机故障事件：与 NEW154、NEW220 高度相似，候选集只留一条"
+  },
+  {
+    "source_line": 215,
+    "suggested_priority": "High",
+    "suggested_reason": "寄出的支票被盗洗改写并兑现，款项尚未返还。",
+    "evidence": "stolen and washed",
+    "review_flag": ""
+  },
+  {
+    "source_line": 216,
+    "suggested_priority": "",
+    "suggested_reason": "独立退休投资账户提款及关户费争议，需确认是否纳入银行和支付项目范围。",
+    "evidence": "partial withdrawal from my Roth IRA account",
+    "review_flag": "范围待确认：如纳入退休投资账户服务，则 Medium"
+  },
+  {
+    "source_line": 217,
+    "suggested_priority": "Medium",
+    "suggested_reason": "信用卡账单争议的证据提供和复核流程问题，未明确声称未授权交易。",
+    "evidence": "a billing dispute",
+    "review_flag": "边界复核：需确认原始交易性质；仅凭 unconscionable 不认定诈骗"
+  },
+  {
+    "source_line": 218,
+    "suggested_priority": "Medium",
+    "suggested_reason": "酒店优惠资格标示和住宿抵扣未获的奖励争议。",
+    "evidence": "they will not apply my credit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 219,
+    "suggested_priority": "Medium",
+    "suggested_reason": "商家取消住宿虽已退款，但银行收回的年度权益未恢复。",
+    "evidence": "failed to reinstate the benefit",
+    "review_flag": ""
+  },
+  {
+    "source_line": 220,
+    "suggested_priority": "Medium",
+    "suggested_reason": "本人换机后信用卡无法加入钱包，属于功能故障。",
+    "evidence": "Card not added",
+    "review_flag": "疑似同一手机故障事件：与 NEW154、NEW214 高度相似，候选集只留一条"
+  },
+  {
+    "source_line": 221,
+    "suggested_priority": "High",
+    "suggested_reason": "明确异地盗刷，报案及地点证明提交后仍拒赔。",
+    "evidence": "it was a fraud charge",
+    "review_flag": ""
+  },
+  {
+    "source_line": 222,
+    "suggested_priority": "High",
+    "suggested_reason": "支付账户被黑损失未获补偿，向银行提出充值争议不改变原诈骗未结事实。",
+    "evidence": "my XXXX account had been hacked",
+    "review_flag": ""
+  },
+  {
+    "source_line": 223,
+    "suggested_priority": "High",
+    "suggested_reason": "银行兑付伪造公司支票，明确欺诈损失未解决。",
+    "evidence": "on fake copy of our company checks",
+    "review_flag": ""
+  },
+  {
+    "source_line": 224,
+    "suggested_priority": "Medium",
+    "suggested_reason": "银行承诺更新余额但实际账单未改，与信用记录不一致。",
+    "evidence": "the balance hasn't been updated",
+    "review_flag": ""
+  },
+  {
+    "source_line": 225,
+    "suggested_priority": "High",
+    "suggested_reason": "未经本人授权从 PayPal 储蓄转款并购币转至陌生钱包，支付账户盗用。",
+    "evidence": "without my knowledge or authorization",
+    "review_flag": ""
+  },
+  {
+    "source_line": 226,
+    "suggested_priority": "High",
+    "suggested_reason": "明确称未收到商品诈骗，未说明诈骗损失已完全退还，随后账户限制未结。",
+    "evidence": "victim of an Item Not Received scam",
+    "review_flag": "重点复核：确认是否真为诈骗、损失是否已完全退还；普通商品退款或只剩关户则 Medium"
+  },
+  {
+    "source_line": 227,
+    "suggested_priority": "High",
+    "suggested_reason": "邮箱被黑后付款信息被篡改，诈骗电汇尚未追回。",
+    "evidence": "wire/payment redirection fraud",
+    "review_flag": ""
+  },
+  {
+    "source_line": 228,
+    "suggested_priority": "Medium",
+    "suggested_reason": "迟付未通知导致还款和解协议失效，要求恢复合同。",
+    "evidence": "void my 18-month credit card settlement agreement",
+    "review_flag": ""
+  },
+  {
+    "source_line": 229,
+    "suggested_priority": "Medium",
+    "suggested_reason": "工资账户突然关闭，无法取款，未报告实际盗用。",
+    "evidence": "sending direct deposits to my account, and i cant access",
+    "review_flag": ""
+  },
+  {
+    "source_line": 230,
+    "suggested_priority": "Medium",
+    "suggested_reason": "卡功能已恢复，但长期限制导致的转款费补偿仍被拒。",
+    "evidence": "refused to address my request for fee reimbursement",
+    "review_flag": ""
+  }
+]
