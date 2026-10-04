@@ -1,0 +1,8 @@
+{
+  "recorded_api_cost_usd": 0.03415455,
+  "mean_request_latency_seconds": 1.17419,
+  "n": 200,
+  "raw_error_n": 10,
+  "final_error_or_abstention_n": 11,
+  "cost_scope": "Saved final-run API usage only; excludes development, labelling and hosting."
+}

@@ -1,0 +1,2 @@
+﻿ticket_id,gold_priority,raw_priority,final_priority,confidence,reason,review_trigger,status
+NEW022,Medium,Medium,Escalate,0.75,'Chase bank still has the funds held'; the unresolved issue is a frozen account without an explicit security event.,low_confidence,ok

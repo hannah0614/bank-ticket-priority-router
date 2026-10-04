@@ -1,0 +1,18 @@
+{
+  "dataset_version": "human-reviewed-test-200-v1",
+  "data_sha256": "1f147d8e01bca35e8b69692718c59e54b7067796f5c0f1691a53b75b81980496",
+  "baseline_sha256": "2d3b27d40ddd4fea5cba2f8dd74e6f02048a5a25354256c013cec579043821c7",
+  "classifier_code_sha256": "32b9553fcdb8253738a3e049fde21e3aca51edf47c4aefbe93ee1354ea8e7675",
+  "prompt_sha256": null,
+  "prompt_version": null,
+  "threshold": null,
+  "api_provider": null,
+  "requested_model": null,
+  "label_provenance": "AI-assisted suggestions manually reviewed and confirmed unchanged by user",
+  "action": "baselines",
+  "rows": 200,
+  "labelled_rows": 200,
+  "unlabelled_rows": 0,
+  "prediction_records": 400,
+  "evaluation_status": "complete"
+}

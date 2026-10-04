@@ -1,0 +1,53 @@
+{
+  "version": "baseline-v1",
+  "majority_label": "Medium",
+  "dev_label_counts": {
+    "High": 6,
+    "Medium": 9,
+    "Low": 2
+  },
+  "dev_data_sha256": "88e7a34062bd6aea986574f96e6516220013fa933822cd661230e56104d3bd97",
+  "keyword_rules": {
+    "high": [
+      "unauthorized",
+      "did not authorize",
+      "scam",
+      "fraud",
+      "stolen card",
+      "account takeover",
+      "hacked",
+      "compromised"
+    ],
+    "negated": [
+      "not fraudulent",
+      "not fraud",
+      "not counterfeit",
+      "not forged",
+      "no unauthorized",
+      "not stolen",
+      "not a scam"
+    ],
+    "resolved": [
+      "fully refunded",
+      "fully released and refunded",
+      "fully resolved"
+    ],
+    "medium": [
+      "refund",
+      "fee",
+      "charged",
+      "charge",
+      "blocked",
+      "restricted",
+      "declined",
+      "bonus",
+      "reward",
+      "interest",
+      "deposit",
+      "not working"
+    ],
+    "fallback": "Low"
+  },
+  "keyword_algorithm": "sentence checks: high minus negated/resolved; medium; fallback",
+  "frozen_at_utc": "2026-10-03T03:52:57Z"
+}

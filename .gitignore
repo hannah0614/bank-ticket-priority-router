@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+demo_runs/
+reruns/
+.ipynb_checkpoints/
+*.log
+*.zip
+.DS_Store

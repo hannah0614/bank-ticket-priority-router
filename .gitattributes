@@ -1,0 +1,7 @@
+# Preserve bytes that are verified by the frozen evaluation manifest.
+* text=auto
+ticket_router.py -text
+baseline_frozen.json -text
+data/** -text
+prompts/** -text
+results/** -text

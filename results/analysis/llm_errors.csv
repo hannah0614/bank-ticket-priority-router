@@ -1,0 +1,12 @@
+﻿ticket_id,gold_priority,raw_priority,final_priority,confidence,reason,review_trigger,status
+NEW007,Medium,Low,Low,0.9,'unexpected error message'; this is a general issue with ordering a card and does not indicate a security problem.,,ok
+NEW016,High,Medium,Medium,0.85,'I have never opened or authorized this account'; the unresolved issue is a disputed account on the credit report without an explicit security event.,,ok
+NEW022,Medium,Medium,Escalate,0.75,'Chase bank still has the funds held'; the unresolved issue is a frozen account without an explicit security event.,low_confidence,ok
+NEW056,High,Medium,Medium,0.92,"'failed to process my dispute requests'; the unresolved issue is a billing problem with disputed transactions, but no explicit security event is mentioned.",,ok
+NEW059,Medium,Low,Low,0.85,'no information'; this is a general inquiry about a claim process with no disputed transaction or security issue.,,ok
+NEW122,High,Medium,Medium,0.85,'locked me out of my account'; the unresolved issue is access restriction without a clear allegation of theft or unauthorized transaction.,,ok
+NEW152,High,Medium,Medium,0.92,"'disputed negative balance'; the unresolved issue is a billing problem related to the application of federally protected benefits against a negative balance, without an explicit security event.",,ok
+NEW164,Medium,Low,Low,0.91,'It is very difficult to get a hold of anyone'; this is a general feedback about service issues with no unresolved security problem.,,ok
+NEW166,Medium,High,High,0.95,'I did not Authorize these overpayments'; the customer alleges unauthorized payments that remain unresolved after a denied claim.,,ok
+NEW184,Medium,Low,Low,0.91,"'I expect, and demand, the XXXX Delta SkyMiles'; this is a request for a bonus and a complaint about service, with no unresolved security issue.",,ok
+NEW211,High,Medium,Medium,0.85,"'Someone opened multiple accounts in my name'; the unresolved issue is related to denied access to services, but no explicit theft or scam loss is mentioned.",,ok

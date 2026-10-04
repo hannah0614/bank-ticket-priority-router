@@ -1,0 +1,20 @@
+{
+  "High": {
+    "High": 55,
+    "Medium": 5,
+    "Low": 0,
+    "Escalate": 0
+  },
+  "Medium": {
+    "High": 1,
+    "Medium": 132,
+    "Low": 4,
+    "Escalate": 1
+  },
+  "Low": {
+    "High": 0,
+    "Medium": 0,
+    "Low": 2,
+    "Escalate": 0
+  }
+}

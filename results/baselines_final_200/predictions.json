@@ -1,0 +1,3602 @@
+[
+  {
+    "ticket_id": "NEW001",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW001",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: scam",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW002",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW002",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW003",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW003",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW004",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW004",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW005",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW005",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW006",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW006",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW007",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW007",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW008",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW008",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW009",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW009",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW010",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW010",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW011",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW011",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW013",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW013",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW014",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW014",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW015",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW015",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: scam",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW016",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW016",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW017",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW017",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW019",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW019",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW020",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW020",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW021",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW021",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW022",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW022",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW023",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW023",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW025",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW025",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW026",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW026",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW027",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW027",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW028",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW028",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW029",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW029",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: restricted",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW030",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW030",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW031",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW031",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charged",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW032",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW032",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW033",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW033",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW034",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW034",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW037",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW037",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: hacked",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW038",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW038",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: compromised",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW039",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW039",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW040",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW040",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: compromised",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW041",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW041",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charged",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW043",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW043",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW044",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW044",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW045",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW045",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW046",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW046",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW047",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW047",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW049",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW049",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW050",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW050",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW051",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW051",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW052",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW052",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW053",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW053",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW054",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW054",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW055",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW055",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW056",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW056",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW057",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW057",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW058",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW058",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW059",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW059",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW060",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW060",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW061",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW061",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW062",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW062",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW063",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW063",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW065",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW065",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: restricted",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW066",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW066",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW067",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW067",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW068",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW068",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW069",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW069",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW070",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW070",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW071",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW071",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW072",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW072",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW073",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW073",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW074",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW074",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: did not authorize",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW075",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW075",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW077",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW077",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW078",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW078",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW080",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW080",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW081",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW081",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW082",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW082",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: scam",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW083",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW083",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW084",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW084",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW085",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW085",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW086",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW086",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW087",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW087",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW088",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW088",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW089",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW089",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW091",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW091",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: did not authorize",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW092",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW092",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW093",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW093",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW094",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW094",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW095",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW095",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW096",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW096",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW099",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW099",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW100",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW100",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW101",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW101",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW102",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW102",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW103",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW103",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW104",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW104",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: restricted",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW105",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW105",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charged",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW106",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW106",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW107",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW107",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW108",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW108",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW109",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW109",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW110",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW110",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW111",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW111",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: blocked",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW112",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW112",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW113",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW113",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW114",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW114",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW115",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW115",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW116",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW116",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW117",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW117",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: restricted",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW119",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW119",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW120",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW120",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW122",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW122",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW123",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW123",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: scam",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW124",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW124",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW125",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW125",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW126",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW126",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: hacked",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW127",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW127",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW128",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW128",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW129",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW129",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: blocked",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW130",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW130",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW132",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW132",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW133",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW133",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: bonus",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW134",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW134",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW135",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW135",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW136",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW136",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charged",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW137",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW137",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW138",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW138",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW139",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW139",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW140",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW140",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: reward",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW141",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW141",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW143",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW143",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW144",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW144",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: compromised",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW145",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW145",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW146",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW146",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW147",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW147",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW148",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW148",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW149",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW149",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW150",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW150",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW151",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW151",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charged",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW152",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW152",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW153",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW153",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW156",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW156",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW157",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW157",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: declined",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW158",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW158",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW160",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW160",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW161",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW161",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW163",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW163",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW164",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW164",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW165",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW165",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW166",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW166",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: did not authorize",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW167",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW167",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW168",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW168",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW170",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW170",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW171",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW171",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW172",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW172",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW173",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW173",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: restricted",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW174",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW174",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW175",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW175",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW176",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW176",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: did not authorize",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW177",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW177",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW178",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW178",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW179",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW179",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW180",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW180",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW181",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW181",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW182",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW182",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW183",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW183",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW184",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW184",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW186",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW186",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW187",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW187",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW188",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW188",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW189",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW189",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: unauthorized",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW190",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW190",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW191",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW191",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW192",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW192",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW193",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW193",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW194",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW194",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW195",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW195",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: reward",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW196",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW196",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW197",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW197",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW198",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW198",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: restricted",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW200",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW200",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW201",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW201",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: scam",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW202",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW202",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW203",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW203",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW204",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW204",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW206",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW206",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW208",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW208",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW209",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW209",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW210",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW210",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW211",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW211",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW212",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW212",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW213",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW213",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW215",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW215",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW217",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW217",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charge",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW218",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW218",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW219",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW219",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: refund",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW221",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW221",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW222",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW222",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: hacked",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW223",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW223",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW224",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW224",
+    "system": "keyword",
+    "raw_priority": "Low",
+    "final_priority": "Low",
+    "confidence": null,
+    "reason": "No configured High/Medium keyword matched.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW225",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW225",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: did not authorize",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW227",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW227",
+    "system": "keyword",
+    "raw_priority": "High",
+    "final_priority": "High",
+    "confidence": null,
+    "reason": "Keyword matched: fraud",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW228",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW228",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: charged",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW229",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW229",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: deposit",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW230",
+    "system": "majority",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Frozen development majority.",
+    "status": "ok"
+  },
+  {
+    "ticket_id": "NEW230",
+    "system": "keyword",
+    "raw_priority": "Medium",
+    "final_priority": "Medium",
+    "confidence": null,
+    "reason": "Keyword matched: fee",
+    "status": "ok"
+  }
+]

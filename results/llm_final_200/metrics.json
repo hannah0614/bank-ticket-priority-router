@@ -1,0 +1,38 @@
+{
+  "llm": {
+    "labelled_n": 200,
+    "gold_counts": {
+      "High": 60,
+      "Medium": 138,
+      "Low": 2
+    },
+    "accuracy": 0.945,
+    "macro_f1": 0.8027586206896551,
+    "high_recall": 0.9166666666666666,
+    "high_routed_high_or_escalate": 0.9166666666666666,
+    "escalate_rate": 0.005,
+    "abstained_with_raw_prediction_n": 1,
+    "abstained_without_raw_prediction_n": 0,
+    "wrong_raw_among_abstained": 0.0,
+    "per_class": {
+      "High": {
+        "support": 60,
+        "precision": 0.9821428571428571,
+        "recall": 0.9166666666666666,
+        "f1": 0.9482758620689655
+      },
+      "Medium": {
+        "support": 138,
+        "precision": 0.9635036496350365,
+        "recall": 0.9565217391304348,
+        "f1": 0.96
+      },
+      "Low": {
+        "support": 2,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5
+      }
+    }
+  }
+}
